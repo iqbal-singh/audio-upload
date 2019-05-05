@@ -1,3 +1,18 @@
+# Audio Upload
+
+## Built With
+
+* React
+* [AWS Amplify](https://aws-amplify.github.io/docs/js/start)
+* Amazon S3 and Amazon CloudFront (hosting)
+* Amazon S3 (file storage)
+* Amazon DynamoDB (storing file metadata)
+* react-bootstrap, react-react-dropzone, react-howler
+## Screenshots
+
+![Home](./screenshots/home.png)
+![Uploading Files](./screenshots/upload.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
