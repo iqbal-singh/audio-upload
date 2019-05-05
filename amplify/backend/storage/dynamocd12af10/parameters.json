@@ -1,0 +1,5 @@
+{
+    "tableName": "dynamocd12af10",
+    "partitionKeyName": "id",
+    "partitionKeyType": "N"
+}

@@ -1,0 +1,24 @@
+.active{
+    font-weight:bold !important;
+}
+
+.uploadzone{
+    text-align: center;
+    padding:50px;
+    cursor:pointer;
+}
+.uploadzone:hover{
+    border:1px dashed;
+} 
+
+.card{
+border-radius: 0px;
+}
+
+body{
+    background-color: #efefef;
+}
+
+.navbar-toggler{
+    border:0px;
+}

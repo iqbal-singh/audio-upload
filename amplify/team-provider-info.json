@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "audioupload-20190427220955-authRole",
+            "UnauthRoleArn": "arn:aws:iam::380618636961:role/audioupload-20190427220955-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::380618636961:role/audioupload-20190427220955-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "audioupload-20190427220955-deployment",
+            "UnauthRoleName": "audioupload-20190427220955-unauthRole",
+            "StackName": "audioupload-20190427220955",
+            "StackId": "arn:aws:cloudformation:us-east-1:380618636961:stack/audioupload-20190427220955/b4983d80-695a-11e9-bc2e-0afcd132dcac"
+        },
+        "categories": {
+            "auth": {
+                "cognito1896bdfc": {}
+            }
+        }
+    }
+}

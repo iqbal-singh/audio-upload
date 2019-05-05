@@ -1,0 +1,34 @@
+{
+    "paths": [
+        {
+            "name": "/items",
+            "lambdaFunction": "audiouploadcf1e6401",
+            "privacy": {
+                "open": true
+            }
+        }
+    ],
+    "resourceName": "api",
+    "apiName": "api",
+    "functionArns": [
+        {
+            "lambdaFunction": "audiouploadcf1e6401"
+        }
+    ],
+    "privacy": {
+        "auth": 0,
+        "unauth": 0,
+        "authRoleName": "audioupload-20190427220955-authRole",
+        "unAuthRoleName": "audioupload-20190427220955-unauthRole"
+    },
+    "dependsOn": [
+        {
+            "category": "function",
+            "resourceName": "audiouploadcf1e6401",
+            "attributes": [
+                "Name",
+                "Arn"
+            ]
+        }
+    ]
+}
